@@ -68,7 +68,7 @@ pydantic
 pydantic-settings
 sse-starlette
 python-dotenv
-Scrapy==2.11.2
+Scrapy==2.13.4
 
 # For text extraction from uploaded files
 PyPDF2>=3.0.0
