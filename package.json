@@ -22,7 +22,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.24.0",
     "@tailwindcss/postcss": "^4.1.18",
-    "axios": "1.13.5",
+    "axios": "1.15.2",
     "bcrypt": "^5.1.1",
     "cors": "^2.8.6",
     "date-fns": "^4.1.0",
