@@ -49,7 +49,7 @@ cohere>=4.0.0
 mistralai>=0.1.0
 pdfminer.six>=20221105
 wikipedia-api>=0.6.0
-litellm==1.82.6
+litellm==1.83.10
 pyalex>=0.8.2
 aiohttp
 numpy>=1.24.4,<2.0.0
