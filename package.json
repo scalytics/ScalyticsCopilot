@@ -35,7 +35,7 @@
     "express-rate-limit": "^7.1.5",
     "franc": "^6.2.0",
     "got": "^14.6.6",
-    "helmet": "^7.1.0",
+    "helmet": "^8.2.0",
     "highlight.js": "^11.11.1",
     "joi": "^17.13.3",
     "jsonwebtoken": "^9.0.3",
