@@ -52,7 +52,7 @@ wikipedia-api>=0.6.0
 litellm==1.83.10
 pyalex>=0.8.2
 aiohttp
-numpy>=1.24.4,<2.0.0
+numpy>=2.4.6,<3.0.0
 fsspec<=2025.3.0,>=2023.1.0
 tldextract>=3.6.0 
 
