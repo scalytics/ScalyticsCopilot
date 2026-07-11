@@ -34,7 +34,7 @@
     "express-fileupload": "^1.5.2",
     "express-rate-limit": "^7.1.5",
     "franc": "^6.2.0",
-    "got": "^14.6.6",
+    "got": "^15.1.0",
     "helmet": "^8.2.0",
     "highlight.js": "^11.11.1",
     "joi": "^18.2.3",
