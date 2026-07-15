@@ -47,7 +47,7 @@ openai>=1.0.0
 anthropic>=0.20.0
 cohere>=4.0.0
 mistralai>=0.1.0
-pdfminer.six>=20221105
+pdfminer.six>=20260107
 wikipedia-api>=0.6.0
 litellm==1.84.0
 pyalex>=0.8.2
