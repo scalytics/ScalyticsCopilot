@@ -32,7 +32,7 @@
     "eventsource-parser": "^1.1.2",
     "express": "^5.2.1",
     "express-fileupload": "^1.5.2",
-    "express-rate-limit": "^7.1.5",
+    "express-rate-limit": "^8.5.2",
     "franc": "^6.2.0",
     "got": "^15.1.0",
     "helmet": "^8.2.0",
