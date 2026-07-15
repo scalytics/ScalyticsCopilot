@@ -11,7 +11,7 @@
     "@testing-library/user-event": "^14.6.1",
     "axios": "1.18.1",
     "chart.js": "^4.5.1",
-    "date-fns": "^4.1.0",
+    "date-fns": "^4.4.0",
     "highlight.js": "^11.9.0",
     "lodash.debounce": "^4.0.8",
     "mermaid": "^11.15.0",
