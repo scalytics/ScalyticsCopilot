@@ -61,7 +61,7 @@
     "swagger-ui-express": "^5.0.1",
     "tokenizers": "^0.13.3",
     "uuid": "^14.0.1",
-    "web-streams-polyfill": "^4.2.0",
+    "web-streams-polyfill": "^4.3.0",
     "winston": "^3.19.0",
     "ws": "^8.21.0",
     "xlsx": "^0.18.5"
