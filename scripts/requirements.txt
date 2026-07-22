@@ -3,7 +3,7 @@ vllm==0.24.0
 flashinfer-python
 bitsandbytes>=0.45.3; sys_platform == 'linux'
 triton; sys_platform == 'linux'
-compressed-tensors>=0.10
+compressed-tensors>=0.17.1
 gguf>=0.13
 wrapt>=1.15.0,<2
 Deprecated>=1.2.14,<2
