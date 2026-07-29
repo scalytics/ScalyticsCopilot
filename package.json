@@ -77,7 +77,7 @@
     "jest": "^30.4.2",
     "nodemon": "^3.1.11",
     "postcss": "^8.5.25",
-    "supertest": "^6.3.3",
+    "supertest": "^7.2.2",
     "swagger-jsdoc": "^6.3.0",
     "tailwindcss": "^4.3.3"
   },
