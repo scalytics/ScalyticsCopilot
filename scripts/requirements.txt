@@ -70,7 +70,7 @@ Scrapy>=2.11.2
 PyPDF2>=3.0.0
 pdfplumber>=0.10.0 # Added for PDF text and table extraction
 python-docx>=1.1.0
-pandas>=2.0.0
+pandas>=3.0.5
 openpyxl>=3.1.0
 
 # To replace deprecated pynvml, a sub-dependency of torch
