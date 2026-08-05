@@ -54,7 +54,7 @@
     "rehype-raw": "^7.0.0",
     "remark-gfm": "^4.0.1",
     "remark-mermaidjs": "^7.0.0",
-    "sqlite-vec": "^0.1.7-alpha.2",
+    "sqlite-vec": "^0.1.9",
     "sqlite-vss": "^0.1.2",
     "sqlite3": "^6.0.1",
     "swagger-jsdoc": "^6.3.0",
