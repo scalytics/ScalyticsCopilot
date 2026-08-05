@@ -6,7 +6,7 @@ triton; sys_platform == 'linux'
 compressed-tensors>=0.17.1
 gguf>=0.13
 wrapt>=1.15.0,<2
-Deprecated>=1.2.14,<2
+Deprecated>=1.3.1,<2
 opentelemetry-api==1.26.0
 opentelemetry-sdk==1.26.0
 opentelemetry-proto==1.26.0
