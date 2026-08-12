@@ -13,7 +13,7 @@ opentelemetry-proto==1.26.0
 opentelemetry-exporter-otlp==1.26.0
 opentelemetry-exporter-otlp-proto-grpc==1.26.0
 opentelemetry-exporter-otlp-proto-http==1.44.0
-opentelemetry-exporter-otlp-proto-common==1.26.0
+opentelemetry-exporter-otlp-proto-common==1.44.0
 MarkupSafe>=3.0.3,<4         
 importlib-metadata>=9.0.0,<10     
 
