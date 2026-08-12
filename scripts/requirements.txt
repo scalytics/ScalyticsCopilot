@@ -48,7 +48,7 @@ anthropic>=0.20.0
 cohere>=7.0.8
 mistralai>=2.8.0
 pdfminer.six>=20260107
-wikipedia-api>=0.6.0
+wikipedia-api>=0.15.0
 litellm==1.93.0
 pyalex>=0.8.2
 aiohttp
