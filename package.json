@@ -27,7 +27,7 @@
     "date-fns": "^4.4.0",
     "dompurify": "^3.4.13",
     "dotenv": "^17.4.2",
-    "eventsource": "^4.1.1",
+    "eventsource": "^5.1.0",
     "eventsource-parser": "^3.1.1",
     "express": "^5.2.1",
     "express-fileupload": "^1.5.2",
