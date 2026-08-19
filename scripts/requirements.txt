@@ -54,7 +54,7 @@ pyalex>=0.8.2
 aiohttp
 numpy>=2.4.6,<3.0.0
 fsspec<=2025.3.0,>=2023.1.0
-tldextract>=5.3.1 
+tldextract>=5.3.2 
 
 # Dependencies for FastAPI Deep Search Orchestrator Service
 fastapi
