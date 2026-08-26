@@ -39,7 +39,7 @@
     "joi": "^18.2.5",
     "jsonwebtoken": "^9.0.3",
     "mammoth": "^1.12.1",
-    "marked": "^18.0.9",
+    "marked": "^18.0.10",
     "mcp-client": "^1.13.1",
     "mermaid": "^11.17.0",
     "morgan": "^1.11.0",
