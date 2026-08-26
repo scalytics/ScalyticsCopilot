@@ -50,7 +50,7 @@ mistralai>=2.8.0
 pdfminer.six>=20260107
 wikipedia-api>=0.15.0
 litellm==1.93.0
-pyalex>=0.8.2
+pyalex>=0.21
 aiohttp
 numpy>=2.4.6,<3.0.0
 fsspec<=2025.3.0,>=2023.1.0
