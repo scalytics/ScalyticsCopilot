@@ -42,7 +42,7 @@
     "marked": "^18.0.10",
     "mcp-client": "^1.13.1",
     "mermaid": "^11.17.2",
-    "morgan": "^1.11.0",
+    "morgan": "^1.12.0",
     "node-fetch": "^3.3.2",
     "papaparse": "^5.7.0",
     "pdf-parse": "^2.4.5",
