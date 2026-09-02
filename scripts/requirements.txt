@@ -17,7 +17,7 @@ opentelemetry-exporter-otlp-proto-common==1.44.0
 MarkupSafe>=3.0.3,<4         
 importlib-metadata>=9.0.0,<10     
 
-huggingface_hub>=1.28.0
+huggingface_hub>=1.29.0
 tqdm>=4.69.0
 python-whois>=0.9.6
 requests>=2.28.0
