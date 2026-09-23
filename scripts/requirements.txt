@@ -44,7 +44,7 @@ fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr
 es_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0.tar.gz
 google-cloud-aiplatform>=2.0.1
 openai>=3.8.0
-anthropic>=0.20.0
+anthropic>=1.7.0
 cohere>=7.1.0
 mistralai>=2.8.0
 pdfminer.six>=20260107
