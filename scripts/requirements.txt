@@ -46,7 +46,7 @@ google-cloud-aiplatform>=2.0.1
 openai>=3.8.0
 anthropic>=0.20.0
 cohere>=7.1.0
-mistralai>=2.8.0
+mistralai>=2.10.1
 pdfminer.six>=20260107
 wikipedia-api>=0.16.0
 litellm==1.93.0
