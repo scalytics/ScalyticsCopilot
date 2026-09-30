@@ -32,7 +32,7 @@ ddgs
 google-api-python-client
 readability-lxml
 scrapy-playwright
-langchain>=1.4.0
+langchain>=1.4.2
 langchain-core
 langgraph
 langdetect
