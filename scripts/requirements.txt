@@ -45,7 +45,7 @@ es_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/es
 google-cloud-aiplatform>=2.0.1
 openai>=3.8.0
 anthropic>=1.7.0
-cohere>=7.1.0
+cohere>=7.1.1
 mistralai>=2.10.1
 pdfminer.six>=20260107
 wikipedia-api>=0.16.0
