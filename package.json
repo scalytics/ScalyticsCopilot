@@ -61,7 +61,7 @@
     "uuid": "^14.0.2",
     "web-streams-polyfill": "^4.3.0",
     "winston": "^3.19.0",
-    "ws": "^8.21.3",
+    "ws": "^8.22.0",
     "xlsx": "^0.18.5"
   },
   "optionalDependencies": {
