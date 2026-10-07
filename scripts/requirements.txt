@@ -1,5 +1,5 @@
 # Torch will be installed as a dependency of vLLM, which will select the correct backend.
-vllm==0.29.0
+vllm==0.30.0
 flashinfer-python
 bitsandbytes>=0.50.2; sys_platform == 'linux'
 triton; sys_platform == 'linux'
