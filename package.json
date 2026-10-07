@@ -41,7 +41,7 @@
     "mammoth": "^1.13.0",
     "marked": "^18.0.14",
     "mcp-client": "^1.13.1",
-    "mermaid": "^12.0.0",
+    "mermaid": "^12.1.0",
     "morgan": "^1.12.1",
     "node-fetch": "^3.3.2",
     "papaparse": "^5.7.0",
