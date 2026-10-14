@@ -43,7 +43,7 @@ de_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/de
 fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.7.0/fr_core_news_sm-3.7.0.tar.gz
 es_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0.tar.gz
 google-cloud-aiplatform>=2.0.1
-openai>=3.8.0
+openai>=3.29.0
 anthropic>=1.7.0
 cohere>=7.1.1
 mistralai>=2.10.1
