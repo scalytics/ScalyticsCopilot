@@ -14,7 +14,7 @@ opentelemetry-exporter-otlp==1.44.0
 opentelemetry-exporter-otlp-proto-grpc==1.44.0
 opentelemetry-exporter-otlp-proto-http==1.44.0
 opentelemetry-exporter-otlp-proto-common==1.44.0
-MarkupSafe>=3.0.3,<4         
+MarkupSafe>=3.0.4,<4         
 importlib-metadata>=9.0.1,<10     
 
 huggingface_hub>=2.1.1
