@@ -110,6 +110,14 @@ Before production use:
 - validate access policies for users, groups, models, and providers
 - review deployment hardening in `deploy/`
 
+## Related projects
+
+- [KafClaw](https://github.com/KafClaw/KafClaw): agent runtime in Go that connects AI agents through Kafka topics.
+- [KafScale](https://github.com/KafScale/platform): Kafka-compatible streaming that keeps the log in S3.
+- [kshark-core](https://github.com/scalytics/kshark-core): Kafka connectivity diagnostics, and an example of how agents can use our tools to debug Kafka clusters.
+
+All projects are listed at [scalytics.io/open-source](https://www.scalytics.io/open-source). For governed AI agents on Kafka with commercial support, see [Lascaris](https://www.scalytics.io/lascaris).
+
 ## License
 
 Apache License 2.0. See `LICENSE` and `NOTICE`.
