@@ -25,7 +25,7 @@
     "react-markdown": "^10.1.0",
     "react-router-dom": "^7.18.4",
     "react-syntax-highlighter": "^16.1.2",
-    "react-toastify": "^11.1.0",
+    "react-toastify": "^11.2.0",
     "react-tooltip": "^6.0.9",
     "react-use-websocket": "^4.13.0",
     "recharts": "^3.10.1",
